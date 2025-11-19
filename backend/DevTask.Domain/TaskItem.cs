@@ -1,18 +1,11 @@
-﻿using System;
-
+﻿
 public class TaskItem
 {
-	private readonly int Id {  get; set; }
-	private string Title { get; set; } = "";
-	private string Description { get; set; } = "";
-	private bool IsCompleted { get; set; };
-
-
-	public TaskItem()
-	{
-		//
-		// TODO: Add constructor logic here
-		//
-	}
-
+    // TODO: Criar array de atividades, usuários, data limite(inicio e fim)
+    public int Id { get; set; }
+    public string Title { get; set; } = "";
+    public string Description { get; set; } = "";
+    public string Status { get; set; } = "";
+    public DateTime CreatedDate { get; set; }
+    public bool IsCompleted { get; set; }
 }

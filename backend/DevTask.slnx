@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="../../../../../DevTask/backend/DevTask.Api/DevTask.Api.csproj" />
+    <Project Path="DevTask.Application/DevTask.Application.csproj" />
+    <Project Path="DevTask.Domain/DevTask.Domain.csproj" />
+    <Project Path="DevTask.Infrastructure/DevTask.Infrastructure.csproj" />
+    <Project Path="DevTask.Tests/DevTask.Tests.csproj" />
+  </Folder>
+  <Folder Name="/frontend/" />
+</Solution>
