@@ -65,7 +65,7 @@ $ dotnet restore
 $ dotnet ef database update
 
 $ cd DevTask.Api
-$ dotnet run
+$ dotnet run OU rodar pela interface
 ```
 
 ### Rodar Frontend
@@ -75,5 +75,5 @@ cd frontend
 npm install
 
 cd DevTask.Ui
-npm run dev
+npm run dev (Desta forma não inicia pela rota "dashboard", então precisa mudar manualmente na url)
 ```
