@@ -23,6 +23,7 @@ O projeto está em constante evolução. Abaixo, o status atual do desenvolvimen
 - [ ] **Autenticação e Autorização**
 - [ ] **CRUD Completo de Tarefas**
 - [ ] **Desenvolver testes unitários**
+- [ ] Configurar GitHub Actions
 
 ---
 
