@@ -17,6 +17,8 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\Users\Willi\source\repos\DevTask\DevTask.Application\DevTask.Application.csproj" />
     <ProjectReference Include="..\..\..\Users\Willi\source\repos\DevTask\DevTask.Infrastructure\DevTask.Infrastructure.csproj" />
+    <ProjectReference Include="..\DevTask.Application\DevTask.Application.csproj" />
+    <ProjectReference Include="..\DevTask.Infrastructure\DevTask.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
