@@ -72,7 +72,7 @@ $ dotnet run OU rodar pela interface
 ### Rodar Frontend
 
 ```bash
-cd frontend
+cd frontend\DevTask.Ui
 npm install
 
 cd DevTask.Ui
