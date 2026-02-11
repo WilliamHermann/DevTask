@@ -63,7 +63,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 $ cd backend
 
 $ dotnet restore
-$ dotnet ef database update
+$ dotnet ef database update --project DevTask.Infrastructure --startup-project DevTask.Api
 
 $ cd DevTask.Api
 $ dotnet run OU rodar pela interface
